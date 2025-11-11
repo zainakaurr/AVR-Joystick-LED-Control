@@ -1,13 +1,4 @@
-/* 
-Paragraph Explaining Process
-To do this lab I first followed the instructions for steps 1 - 4. 
-Then I set up the LED's and wired them up. I kept my code from the 
-step where we were suppsoed to make the red LED blink. For the green 
-LED's and step 4, I used the code given + refered the slides to 
-understand it. Finally for step 5 I used the code from step 4 + used 
-regular instructions and branching instructions such as brlo and brsh
-along with jump. 
-*/
+
 
 void setup() 
 {
